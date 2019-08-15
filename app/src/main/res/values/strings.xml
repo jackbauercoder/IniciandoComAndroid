@@ -3,4 +3,9 @@
     <string name="simple_adapter_exemplo">Simple Adapter Exemplo</string>
     <string name="arrayadapter_exemplo">ArrayAdapter Exemplo</string>
     <string name="baseadapter_exemplo">BaseAdapter Exemplo</string>
+    <string name="hint_nome">Enter your name</string>
+    <string name="hint_email">Enter your e-mail</string>
+    <string name="hint_telefone">Enter your phone</string>
+    <string name="hint_senha">Enter your password</string>
+    <string name="hint_confirmarSenha">Enter your password again</string>
 </resources>
